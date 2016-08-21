@@ -5,7 +5,7 @@
 def abcd():
     print "\n-------------------"
     print "THE ALPHABETIZER 2014"
-    print "by orC°"
+    print "by orobor"
     print "This is a very small program that sorts"
     print "the letter of your name in an alphabetical order."
     print "It is supposed to be a perfectly useless software"
